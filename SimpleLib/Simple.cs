@@ -6,7 +6,7 @@ namespace SimpleLib
     {
         public static string DoSomething()
         { 
-            return "v 1";
+            return "v 2";
         }
     }
 }
